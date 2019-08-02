@@ -3,7 +3,7 @@ import json
 
 
 
-APIKEY = "2144567cfe43dc3791bbfee9e4ba157f"
+APIKEY = ""
 
 def get(url):
     resp = requests.get(url)
